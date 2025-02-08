@@ -52,7 +52,7 @@ body {
     background-color: white;
     width: 90%;
     height: 95%;
-    top: 5%;
+    top: 1%;
     border-radius: 10px;
     box-shadow: 0 2px 26px rgba(0, 0, 0, .12);
     margin-left: auto;
@@ -82,7 +82,7 @@ body {
     top: 15%;
 }
 .line2 {
-    top: 30%;
+    top: 25%;
 }
 .line3 {
     top: 50%;
